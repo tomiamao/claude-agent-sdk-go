@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/severity1/claude-agent-sdk-go/internal/shared"
+	"github.com/tomiamao/claude-agent-sdk-go/internal/shared"
 )
 
 // TestTransportHandleStdoutErrorPaths tests uncovered handleStdout scenarios

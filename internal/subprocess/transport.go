@@ -12,10 +12,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/severity1/claude-agent-sdk-go/internal/cli"
-	"github.com/severity1/claude-agent-sdk-go/internal/control"
-	"github.com/severity1/claude-agent-sdk-go/internal/parser"
-	"github.com/severity1/claude-agent-sdk-go/internal/shared"
+	"github.com/tomiamao/claude-agent-sdk-go/internal/cli"
+	"github.com/tomiamao/claude-agent-sdk-go/internal/control"
+	"github.com/tomiamao/claude-agent-sdk-go/internal/parser"
+	"github.com/tomiamao/claude-agent-sdk-go/internal/shared"
 )
 
 const (

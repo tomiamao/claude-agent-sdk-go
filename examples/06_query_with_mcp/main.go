@@ -8,7 +8,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/severity1/claude-agent-sdk-go"
+	claudecode "github.com/tomiamao/claude-agent-sdk-go"
 )
 
 func main() {

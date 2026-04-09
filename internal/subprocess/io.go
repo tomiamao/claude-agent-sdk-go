@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/severity1/claude-agent-sdk-go/internal/shared"
+	"github.com/tomiamao/claude-agent-sdk-go/internal/shared"
 )
 
 // handleStdout processes stdout in a separate goroutine

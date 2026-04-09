@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/severity1/claude-agent-sdk-go"
+	claudecode "github.com/tomiamao/claude-agent-sdk-go"
 )
 
 // Validation Functions for Group 1: Core Queries (T164-T167)
